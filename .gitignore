@@ -1,0 +1,20 @@
+# Build Artifacts
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Environment and Credentials
+.env
+__firebase_config  # If you ever dump the raw config file
+__initial_auth_token
+__app_id
+
+# Temporary / Local Streamlit and IDE Files
+.streamlit/
+.ipynb_checkpoints/
+.DS_Store
+
+# RAG / Vector Database and Git Clones (Crucial to Ignore)
+temp_repos/
+chroma_db/
