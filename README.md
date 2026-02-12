@@ -1,7 +1,7 @@
 
 # _AI Codebase Archaeologist_ : Unearth the Architecture and Audit the Security of Any GitHub Repo
 
-## Problem Statement: The Codebase Maze... : /
+## Problem Statement:
 
 The initial stages of working on an unfamiliar, large, or legacy codebase are often a **time-sink** and a source of significant **technical debt**. Developers and auditors face the daunting task of:
 1.  **Understanding high-level architecture** and data flow.
